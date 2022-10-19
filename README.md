@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rameshab
+- 👋 Hi, I’m @ramesh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 -   natural language processing
